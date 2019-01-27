@@ -1,4 +1,4 @@
-FROM daocloud.io/mysql:5.6
+FROM daocloud.io/mysql:5.7
 MAINTAINER "dengxh@bossbill.cn"
 
 ENV LANG en_US.UTF-8
